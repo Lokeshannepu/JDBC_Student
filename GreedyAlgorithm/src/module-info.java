@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Queue {
+module GreedyAlgorithm {
 }
